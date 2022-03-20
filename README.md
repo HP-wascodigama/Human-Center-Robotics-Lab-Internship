@@ -1,7 +1,12 @@
 # Human-Center-Robotics-Lab-Internship
 ## It was part of my final semester activity
-![image](https://user-images.githubusercontent.com/29438349/159162863-f1df0b83-4f87-4cf8-941c-71cdd416f579.png)
+
+### For getting 2D skeleton video output OpenPose and also ground contact timing which is motivational for our future research direction. (https://geometry.stanford.edu/projects/human-dynamics-eccv-2020/)
 ![image](https://user-images.githubusercontent.com/29438349/159162886-6e7b38c7-9231-45fb-8cb1-05c5ebf89c6b.png)
+
+### This method helps us to extract out Kinematic features from 2D skeleton videos.(https://doi.org/10.1371/journal.pcbi.1008935)
+![image](https://user-images.githubusercontent.com/29438349/159162863-f1df0b83-4f87-4cf8-941c-71cdd416f579.png)
+
 
 
 # Matlab Setup and Scaling
