@@ -1,5 +1,8 @@
 # Human-Center-Robotics-Lab-Internship
-##It was part of my final semester activity
+## It was part of my final semester activity
+![image](https://user-images.githubusercontent.com/29438349/159162863-f1df0b83-4f87-4cf8-941c-71cdd416f579.png)
+![image](https://user-images.githubusercontent.com/29438349/159162886-6e7b38c7-9231-45fb-8cb1-05c5ebf89c6b.png)
+
 
 # Matlab Setup and Scaling
 A scaling factor to obtain dimensionalized coordinate values from the pixel coordinates. The scaling factor (s) was calculated as: 𝑠 = 𝑑𝑖𝑠𝑡𝑎𝑛𝑐𝑒 / 𝑝𝑖𝑥𝑒𝑙 𝑙𝑒𝑛𝑔𝑡ℎ.
